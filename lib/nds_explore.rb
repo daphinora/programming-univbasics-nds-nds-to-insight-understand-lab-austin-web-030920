@@ -9,6 +9,6 @@ pp 'nds'
 end
 
 def print_first_directors_movie_titles
-  row_index = 0
-  while row_index < first_directors.length
+  first_director = directors_database[0]
+  
 end
